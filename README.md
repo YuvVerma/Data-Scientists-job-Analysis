@@ -1,4 +1,4 @@
-# 📊 Data Science Job Market Analysis
+# 📊 Data Science Job Analysis
 
 ## 📌 Overview
 This project analyzes salary trends, job roles, and employment types in the **Data Science job market**. The dataset includes job titles, salaries, employment types, company sizes, remote work ratios, and locations.
